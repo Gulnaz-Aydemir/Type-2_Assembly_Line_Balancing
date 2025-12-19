@@ -42,7 +42,7 @@ Projede literatürdeki standart benchmark veri setleri kullanılmıştır: **Jae
 ## 📈 Algoritma Performansı
 Aşağıdaki grafik, Python algoritmasının iterasyonlar boyunca optimum sonuca nasıl yakınsadığını göstermektedir:
 
-![Yakınsama Grafiği](MHD/results/jaeschke_grafik.png)
+![Yakınsama Grafiği](MHD_Proje/results/jaeschke_grafik.png)
 
 
 ## 🚀 Kurulum ve Çalıştırma
