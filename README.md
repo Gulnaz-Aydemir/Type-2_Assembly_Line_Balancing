@@ -35,7 +35,7 @@ Projede literatürdeki standart benchmark veri setleri kullanılmıştır: **Jae
 | Veri Seti | İstasyon Sayısı (K) | GAMS Sonucu (Min C) | Python (SA) Sonucu | Sapma (%) | Durum |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Jaeschke** | 4 | **10.0** | **10.0** | %0 | ✅ Optimal |
-| **Sawyerr** | 8 | **41.0** | **41.0** | %0 | ✅ Optimal |
+
 
 > **Not:** Geliştirilen Tavlama Benzetimi algoritması, her iki problemde de saniyeler içerisinde GAMS ile aynı **optimal** sonucu bulmayı başarmıştır.
 
