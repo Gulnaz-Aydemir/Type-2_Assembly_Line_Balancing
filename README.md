@@ -9,9 +9,8 @@
 - 📊 **Matplotlib** (Visualization)
 - 📈 **Operations Research / Optimization**
 
-# 🏭 Type-2 Assembly Line Balancing Optimization (SALBP-2)
 
-Bu proje, Endüstri Mühendisliği ve Yapay Zeka tekniklerini birleştirerek **Tip-2 Montaj Hattı Dengeleme Problemini (Minimize Cycle Time)** çözmeyi amaçlamaktadır. Projede kesin çözüm yöntemi olarak **GAMS (MIP)**, sezgisel çözüm yöntemi olarak ise **Python (Tavlama Benzetimi / Simulated Annealing)** kullanılmış ve sonuçlar karşılaştırılmıştır.
+Bu proje, **Tip-2 Montaj Hattı Dengeleme Problemini (Minimize Cycle Time)** çözmeyi amaçlamaktadır. Projede kesin çözüm yöntemi olarak **GAMS (MIP)**, sezgisel çözüm yöntemi olarak ise **Python (Tavlama Benzetimi / Simulated Annealing)** kullanılmış ve sonuçlar karşılaştırılmıştır.
 
 ## 🎯 Proje Amacı
 Sabit sayıda istasyon (K) verildiğinde, çevrim zamanını (C) en aza indirmek ve hat etkinliğini maksimize etmek.
@@ -31,7 +30,7 @@ Sabit sayıda istasyon (K) verildiğinde, çevrim zamanını (C) en aza indirmek
 
 ## 📊 Veri Setleri ve Sonuçlar
 
-Projede literatürdeki standart benchmark veri setleri kullanılmıştır: **Jaeschke (9 Görev)** ve **Sawyerr (30 Görev)**.
+Projede literatürdeki standart benchmark veri setleri kullanılmıştır: **Jaeschke (9 Görev)** .
 
 | Veri Seti | İstasyon Sayısı (K) | GAMS Sonucu (Min C) | Python (SA) Sonucu | Sapma (%) | Durum |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -43,8 +42,8 @@ Projede literatürdeki standart benchmark veri setleri kullanılmıştır: **Jae
 ## 📈 Algoritma Performansı
 Aşağıdaki grafik, Python algoritmasının iterasyonlar boyunca optimum sonuca nasıl yakınsadığını göstermektedir:
 
-![Yakınsama Grafiği](jaeschke_yakinsama.png)
-*(Buraya kendi oluşturduğun grafik dosyasının adını yazarsan resim görünür)*
+![Yakınsama Grafiği](jaeschke_grafik.png)
+
 
 ## 🚀 Kurulum ve Çalıştırma
 
