@@ -45,10 +45,6 @@ Aşağıdaki grafik, Python algoritmasının iterasyonlar boyunca optimum sonuca
 ![Yakınsama Grafiği](MHD_Proje/results/jaeschke_grafik.png)
 
 
-## 🚀 Kurulum ve Çalıştırma
 
-Projeyi yerel bilgisayarınızda çalıştırmak için:
 
-1. Repoyu klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADIN/PROJE_ADIN.git](https://github.com/KULLANICI_ADIN/PROJE_ADIN.git)
+
