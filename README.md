@@ -44,7 +44,11 @@ Aşağıdaki grafik, Python algoritmasının iterasyonlar boyunca optimum sonuca
 
 ![Yakınsama Grafiği](MHD_Proje/results/jaeschke_grafik.png)
 
-Hazırlayan: Gülnaz Aydemir
+
+👤 Hazırlayan: Gülnaz Aydemir.
+
+📧 İletişim: gulnazaydemir22@gmail.com
+
 
 
 
